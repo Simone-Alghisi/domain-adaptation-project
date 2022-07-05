@@ -1,3 +1,4 @@
 # requirements for mach-nix
-jupyterlab
-jupyter_contrib_nbextensions
+jupyterlab=3.2.8
+jupyter_contrib_nbextensions=0.5.1
+autopep8=1.6.0
