@@ -1,0 +1,3 @@
+# requirements for mach-nix
+jupyterlab
+jupyter_contrib_nbextensions
